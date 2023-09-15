@@ -2,8 +2,8 @@
 
  
  
-![Charlie's GitHub stats](https://readme-stats-git-dependabot-npmandyarnjest-2970-charlie85270.vercel.app/api?username=charlie85270&show_icons=true)
-
+[![Charlie's GitHub stats](https://readme-stats-git-dependabot-npmandyarnjest-2970-charlie85270.vercel.app/api?username=charlie85270&show_icons=true)
+](https://readme-stats-git-dependabot-npmandyarnjest-2970-charlie85270.vercel.app/api?username=charlie85270&show_icons=true)
 
 ### Let's Connect 🔗
 
