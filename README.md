@@ -2,7 +2,7 @@
 
  
  
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie85270&show_icons=true)
+![Charlie's GitHub stats](https://readme-stats-seven-mu.vercel.app/api?username=charlie85270&show_icons=true)
 
 
 ### Let's Connect 🔗
